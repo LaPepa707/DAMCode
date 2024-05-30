@@ -1,0 +1,96 @@
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.frmMain.resources
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.csproj.GenerateResource.cache
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.AssemblyInfoInputs.cache
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.AssemblyInfo.cs
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.csproj.CoreCompileInputs.cache
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Equips.exe
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Equips.deps.json
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Equips.runtimeconfig.json
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Equips.pdb
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.csproj.AssemblyReference.cache
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.csproj.Up2Date
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\refint\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.pdb
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\Equips.genruntimeconfig.cache
+E:\DOCENCIA\M03\UF6\Equips\Equips\obj\Debug\net8.0-windows\ref\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Equips.exe
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Equips.deps.json
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Equips.runtimeconfig.json
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Equips.pdb
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.csproj.AssemblyReference.cache
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.frmMain.resources
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.csproj.GenerateResource.cache
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.AssemblyInfoInputs.cache
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.AssemblyInfo.cs
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.csproj.CoreCompileInputs.cache
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.csproj.Up2Date
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\refint\Equips.dll
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.pdb
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\Equips.genruntimeconfig.cache
+E:\DOCENCIA\M03\UF6\Equips - PLANTILLA\Equips\obj\Debug\net8.0-windows\ref\Equips.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Equips.exe
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Equips.deps.json
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Equips.runtimeconfig.json
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Equips.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Equips.pdb
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Montilivi\1r\c#\UF6\Equips\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.csproj.AssemblyReference.cache
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.frmMain.resources
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.csproj.GenerateResource.cache
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.GeneratedMSBuildEditorConfig.editorconfig
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.AssemblyInfoInputs.cache
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.AssemblyInfo.cs
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.csproj.CoreCompileInputs.cache
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.csproj.Up2Date
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.dll
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\refint\Equips.dll
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.pdb
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\Equips.genruntimeconfig.cache
+D:\Montilivi\1r\c#\UF6\Equips\obj\Debug\net8.0-windows\ref\Equips.dll

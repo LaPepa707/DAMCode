@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EQUIPS>
+  <EQUIP>
+    <ABREVIACIO>ARS</ABREVIACIO>
+    <NOM>ARSENAL</NOM>
+    <PRESSUPOST>120</PRESSUPOST>
+    <LOGO>https://a.espncdn.com/i/teamlogos/soccer/500/359.png</LOGO>
+  </EQUIP>
+  <EQUIP>
+    <ABREVIACIO>FCB</ABREVIACIO>
+    <NOM>Futbol Club Barcelona</NOM>
+    <PRESSUPOST>600</PRESSUPOST>
+    <LOGO>https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&amp;h=200&amp;w=200</LOGO>
+  </EQUIP>
+  <EQUIP>
+    <ABREVIACIO>PRA</ABREVIACIO>
+    <NOM>Preslava Radoslavova Aleksandrova</NOM>
+    <PRESSUPOST>600</PRESSUPOST>
+    <LOGO>https://images.pexels.com/photos/22065626/pexels-photo-22065626/free-photo-of-comida-moda-gente-mujer.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=600&amp;lazy=load</LOGO>
+  </EQUIP>
+</EQUIPS>

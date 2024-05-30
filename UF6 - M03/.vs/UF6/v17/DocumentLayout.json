@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Montilivi\\1r\\c#\\UF6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\idaoteammysqlimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\idaoteammysqlimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\idaoteamxmlimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\idaoteamxmlimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\daoteamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\daoteamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\daofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\daofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\presl\\AppData\\Local\\Temp\\9c0e194b-ae9d-46f2-9828-4a6b9b5a7775_Equips - PLANTILLA.zip.775\\Equips - PLANTILLA\\Equips\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\idaoteamimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\idaoteamimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|d:\\montilivi\\1r\\c#\\uf6\\dao_pattern\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155981A8-92F7-42CC-A7C5-37F39BA89ACF}|DAO_Pattern\\DAO_Pattern.csproj|solutionrelative:dao_pattern\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDAOTeamImpl.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAOTeamImpl.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\IDAOTeamImpl.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAOTeamImpl.cs",
+              "RelativeToolTip": "DAO_Pattern\\IDAOTeamImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:21:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAO.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\IDAO.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAO.cs",
+              "RelativeToolTip": "DAO_Pattern\\IDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:15:54.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDAOTeamMySqlImpl.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAOTeamMySqlImpl.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\IDAOTeamMySqlImpl.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAOTeamMySqlImpl.cs",
+              "RelativeToolTip": "DAO_Pattern\\IDAOTeamMySqlImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:13:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDAOTeamXMLImpl.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAOTeamXMLImpl.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\IDAOTeamXMLImpl.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\IDAOTeamXMLImpl.cs",
+              "RelativeToolTip": "DAO_Pattern\\IDAOTeamXMLImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:12:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\Program.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\Program.cs",
+              "RelativeToolTip": "DAO_Pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:09:03.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\Team.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\Team.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\Team.cs",
+              "RelativeToolTip": "DAO_Pattern\\Team.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:09:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\Form1.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\Form1.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\Form1.cs*",
+              "RelativeToolTip": "DAO_Pattern\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:21:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOTeamFactory.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\DAOTeamFactory.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\DAOTeamFactory.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\DAOTeamFactory.cs",
+              "RelativeToolTip": "DAO_Pattern\\DAOTeamFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:18:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAOFactory.cs",
+              "DocumentMoniker": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\DAOFactory.cs",
+              "RelativeDocumentMoniker": "DAO_Pattern\\DAOFactory.cs",
+              "ToolTip": "D:\\Montilivi\\1r\\c#\\UF6\\DAO_Pattern\\DAOFactory.cs",
+              "RelativeToolTip": "DAO_Pattern\\DAOFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:20:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\presl\\AppData\\Local\\Temp\\9c0e194b-ae9d-46f2-9828-4a6b9b5a7775_Equips - PLANTILLA.zip.775\\Equips - PLANTILLA\\Equips\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\presl\\AppData\\Local\\Temp\\9c0e194b-ae9d-46f2-9828-4a6b9b5a7775_Equips - PLANTILLA.zip.775\\Equips - PLANTILLA\\Equips\\Form1.Designer.cs [Solo lectura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:19:05.004Z",
+              "EditorCaption": " [Solo lectura]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
